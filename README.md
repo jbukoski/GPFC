@@ -6,8 +6,9 @@ The database was compiled through a systematic review of the literature (the [GR
 
 The data presented here are for monoculture (single-species) plantation forests. The database is structured similarly to the GROA data and [ForC-db](https://github.com/forc-db). However, note that this database has not been formally integrated into ForC.
 
-# Data Use Policy and Guidelines
 ---
+
+# Data Use Policy and Guidelines
 
 ## License
 
