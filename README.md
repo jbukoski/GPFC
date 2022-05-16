@@ -4,7 +4,7 @@ This repository houses the Global Plantation Forest Carbon database and associat
 
 The database was compiled through a systematic review of the literature (the [GROA](https://github.com/forc-db/GROA) project), led by The Nature Conservancy and a team of scientists from 19 institutions. 
 
-The data presented here are for monoculture (single-species) plantation forests. The database is structured similarly to the GROA data and [ForC-db](https://github.com/forc-db). However, note that this database has not been formally integrated into ForC.
+The data presented here are for monoculture (single-species) plantation forests. The database is structured similarly to the [GROA](https://github.com/forc-db/GROA) database and [ForC-db](https://github.com/forc-db). However, note that this database has not been formally integrated into ForC.
 
 ---
 
