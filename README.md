@@ -2,16 +2,16 @@
 
 This repository houses the Global Plantation Forest Carbon database and associated analyses (published in _Nature Communications_, Bukoski et al., 2022).
 
-The database was compiled through a systematic review of the literature (the (GROA)[https://github.com/forc-db/GROA] project), led by The Nature Conservancy and a team of scientists from 19 institutions. 
+The database was compiled through a systematic review of the literature (the [GROA](https://github.com/forc-db/GROA) project), led by The Nature Conservancy and a team of scientists from 19 institutions. 
 
-The data presented here are for monoculture (single-species) plantation forests. The database is structured similarly to the GROA data and (ForC-db)[https://github.com/forc-db]. However, note that this database has not been formally integrated into ForC.
+The data presented here are for monoculture (single-species) plantation forests. The database is structured similarly to the GROA data and [ForC-db](https://github.com/forc-db). However, note that this database has not been formally integrated into ForC.
 
 # Data Use Policy and Guidelines
 ---
 
 ## License
 
-The GPFC database is licensed under 
+The GPFC database is licensed under the Creative Commons Zero v1.0 Universal (see License file).
 
 ## Database citation
 
