@@ -1,5 +1,7 @@
 # Global Plantation Forest Carbon (GPFC)
 
+[![DOI](https://zenodo.org/badge/492990743.svg)](https://zenodo.org/badge/latestdoi/492990743)
+
 This repository houses the Global Plantation Forest Carbon database and associated analyses (published in _Nature Communications_, Bukoski et al., 2022).
 
 The database was compiled through a systematic review of the literature (the [GROA](https://github.com/forc-db/GROA) project), led by The Nature Conservancy and a team of scientists from 19 institutions. 
@@ -42,7 +44,8 @@ The first three scripts (01-03) should be fully reproducible after downloading t
 
 The visualization scripts (04-05) are not fully reproducible as we have not republished the spatial datasets included in the maps, as well as intermediate datasets. If you want access to these files, please reach out to Jacob (jbukoski@berkeley.edu) for assistance in accessing the files.
 
-The current version of this repository has been archived on Zenodo: 
+The current version of this repository has been archived on Zenodo: [![DOI](https://zenodo.org/badge/492990743.svg)](https://zenodo.org/badge/latestdoi/492990743)
+
 
 ---
 
