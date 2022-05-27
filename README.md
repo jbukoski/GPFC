@@ -22,6 +22,32 @@ Any publications using these data should cite both Bukoski et al. 2022 (which de
 
 Bukoski, J.J., Cook-Patton, S.C., Melikov, C., Ban, H., Liu, J.C., Goldman, L., Harris, N., & Potts, M.D. 2022. Rates and drivers of aboveground carbon accumulation in global monoculture plantation forests. _Nature Communications_. In Press.
 
+---
+
+# Explanation of files in this repository
+
+We provide all scripts associated with our analysis for reproducibility here. The R scripts included in this repository are:
+
+- **01_growthCurves.R** - parameterization and validation of Chapman-Richard growth functions for each plant functional type and plantation genus.
+- **02_driverAnalysis.R** - statistical analyses of potential biological, environmental, and management-based drivers of variation in plantation carbon accumulation.
+- **03_summaryStats.R** - simple summary stats that are included in the manuscript (e.g., number of observations by country).
+- **04_mainVisualizations.R** - R code to produce the figures that have been included in our manuscript.
+- **05_supplementaryVisualizations.R** - R code to produce the figures found in our Supplementary Information file.
+- **99_buildPlots.R** - a helper function used to create Figures 2 & 3.
+- **99_compareFunctions.R** - a helper function used to compare different model forms.
+- **99_parameterizeModels.R** - a wrapper function for the Chapman-Richards growth function parameterization, which facilitates for our bootstrapped validation procedure.
+- **99_prepPlantationShapefiles.R** - a helper script to preprocess the Spatial Database of Planted Trees shapefiles for incorporation into Figure 2.
+
+The first three scripts (01-03) should be fully reproducible after downloading the Global Plantation Forest Carbon database (GPFC_database.xlsx) from Zenodo (10.5281/zenodo.6555216).
+
+The visualization scripts (04-05) are not fully reproducible as we have not republished the spatial datasets included in the maps, as well as intermediate datasets. If you want access to these files, please reach out to Jacob (jbukoski@berkeley.edu) for assistance in accessing the files.
+
+The current version of this repository has been archived on Zenodo: 
+
+---
+
 ### Contacts
 
 Jacob J. Bukoski, Conservation International (jbukoski@conservation.org; jbukoski@berkeley.edu)
+
+
